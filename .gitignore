@@ -1,4 +1,10 @@
-.env
-.venv
 .idea
-.git
+.env
+.venv/
+__pycache__/
+*.pyc
+config.py
+*.pkl
+*.h5
+*.onnx
+data/
